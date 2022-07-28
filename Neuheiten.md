@@ -9,7 +9,7 @@ Mehr dazu hier.
 
 ## Build 435
 Im Journal steht das neue Flag "**Vertraulichkeit**" zur Verfügung.
-Mehr dazu hier(JournalOptionen.md).
+Mehr dazu [hier](JournalOptionen.md).
 
 Die Termin Beschreibung unterstützt jetzt auch HTML Text.
 Dieser wird auch mit dem externen Groupware System synchronisiert.
@@ -30,4 +30,3 @@ E-Mail Journale mit unbekannten Adressen - diese werden im E-Mail Journal jetzt 
 
 
 In PDF exportierte Belegsreports werden im PDF/A kompatiblen Format abgelegt und können über die Druckvorschau unterschrieben und digital signiert werden.
-
