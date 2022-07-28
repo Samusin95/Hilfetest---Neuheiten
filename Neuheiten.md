@@ -9,7 +9,7 @@ Mehr dazu hier.
 
 ## Build 435
 Im Journal steht das neue Flag "**Vertraulichkeit**" zur Verfügung.
-Mehr dazu hier.
+Mehr dazu hier(JournalOptionen.md).
 
 Die Termin Beschreibung unterstützt jetzt auch HTML Text.
 Dieser wird auch mit dem externen Groupware System synchronisiert.
