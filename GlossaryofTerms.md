@@ -1,3 +1,5 @@
+# Glossary of Terms
+
 ## Bedienleiste
 Die Bedienleiste befindet sich am oberen Bildschirmrand und beinhaltet die am häufigsten verwendeten Funktionen, abhängig vom aktuellen Inhalt des Fensters.
 
