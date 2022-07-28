@@ -9,14 +9,14 @@ Mehr dazu hier.
 
 ## Build 435
 Im Journal steht das neue Flag "**Vertraulichkeit**" zur Verfügung.
-Mehr dazu [hier](JournalOptionen.md).
+Mehr dazu <ins>[hier](JournalOptionen.md)</ins>.
 
 Die Termin Beschreibung unterstützt jetzt auch HTML Text.
 Dieser wird auch mit dem externen Groupware System synchronisiert.
 Damit ist es zum Beispiel möglich eine MicrosoftTeams Einladung über das CRM zu öffnen.
 
 ## Build 434
-Im Kontakt- und Firmenformular steht über die [Bedienleiste](GlossaryofTerms.md) die Funktion "*Verknüpfe 'Kontakt/Firma' mit unbekannten 'Journal' E-Mail Adressen*" zur Verfügung. Mehr dazu hier.
+Im Kontakt- und Firmenformular steht über die <ins>[Bedienleiste](GlossaryofTerms.md)</ins> die Funktion "*Verknüpfe 'Kontakt/Firma' mit unbekannten 'Journal' E-Mail Adressen*" zur Verfügung. Mehr dazu hier.
 
 ## Build 432
 Beim Standardfilter der Listen kann für die Kontaktauswahl der Platzhalter "[aktueller Benutzer]" verwendet werden. Damit kann dieser Filter auf verschiedenen Arbeitsplätzen verwendet werden.
