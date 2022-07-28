@@ -4,15 +4,15 @@ In den Listen werden die Einträge des jeweiligen Moduls angezeigt. Dabei entspr
 
 ![image](https://user-images.githubusercontent.com/91113869/181516677-1ae38aa7-fa58-4b01-baac-6d03f8c52f43.png)
 
-**Aufsteigend**
+**Aufsteigend** <br />
 Die markierte Spalte wird dem Alphabet nach von A bis Z sortiert.
 
 
-**Absteigend**
+**Absteigend**<br />
 Die markierte Spalte wird dem Alphabet nach von Z bis A sortiert.
 
 
-**nach diesem Feld gruppieren**
+**nach diesem Feld gruppieren**<br />
 Damit kann nach der markierten Spalte gruppiert werden.
 Z.B.: Bei Kontakten: ich gruppiere nach dem Feld "Ort". Jetzt werden alle dargestellten Kontakte in Gruppen nach dem Ort dargestellt. 
 Die Gruppierungseinstellungen werden auch in der Ansicht gespeichert.
@@ -21,7 +21,7 @@ Um zu sehen, nach welchen Spalten gruppiert wird kann über das Kontext-Menü au
 
 ![image](https://user-images.githubusercontent.com/91113869/181521550-5417f55d-5b9b-4ce4-87b2-1c021a0b33ef.png)
 
-**Gruppierfeld**
+**Gruppierfeld**<br />
 Um zu sehen, nach welchen Spalten gruppiert wird kann über das Kontext-Menü auf den Spaltenkopf die Auswahl "Gruppierungsfeld anzeigen" aktiviert werden.
 Ist das Gruppierfeld eingeblendet, dann kann über das Kontext-Menü auf die gruppierte Spalte optional eine 
 
@@ -35,25 +35,25 @@ Neben dem Wert der Spalte wird dann auch die ausgewählte Summe dargestellt:
 
 Die Liste kann nach den Summenspalten über "Sortieren nach Zusammenfassung" auch sortiert werden.
 
-**Spalte entfernen**
+**Spalte entfernen**<br />
 Die aktuell markierte Spalte wird von der Darstellung entfernt. Sie kann jederzeit über die Feldauswahl zurückgeholt werden.
 
-**Feldauswahl**
+**Feldauswahl**<br />
 Damit blendet man ein Fenster ein, in dem alle nicht angezeigten Spalten dargestellt sind. Um Spalten einzufügen, klickt man auf das gewünschte Feld und zieht dieses bei gedrückter Maustaste auf die Titelleiste. Bei loslassen der Maustaste wird die Spalte eingefügt.
 
-**Größe anpassen**
+**Größe anpassen**<br />
 Damit passt sich die Größe der derzeitig markierten Spalte der optimalen Breite an.
 
-**Größe anpassen (alle Spalten)**
+**Größe anpassen (alle Spalten)**<br />
 Damit werden alle Spalten in der optimalen Breite dargestellt.
 
-> Tipp für Sortierung: Man kann die Sortierung der Spalten auch über einen einfachen Mausklick auf die Titelleiste anstoßen. Bei gedrückter "SHIFT" Taste kann auch nach mehreren Spalten sortiert werden (z.B. bei Journalen nach Journaltyp und Ein-Ausgang).
+> *Tipp für Sortierung: Man kann die Sortierung der Spalten auch über einen einfachen Mausklick auf die Titelleiste anstoßen. Bei gedrückter "SHIFT" Taste kann auch nach mehreren Spalten sortiert werden (z.B. bei Journalen nach Journaltyp und Ein-Ausgang).*
 
 **Hinweis:** Falls man Aktionen startet die etwas länger dauern, wie zum Beispiel E-Mails importieren, gibt es die Möglichkeit, diese Aktion über einen Abbruch Button in der Statusleiste abzubrechen.
 
 ![image](https://user-images.githubusercontent.com/91113869/181521792-1ca0fdf5-1cfd-4600-8559-90469ad384f5.png)
 
-**Schnellsuche in der Liste:**
+**Schnellsuche in der Liste:**<br />
 Klicken Sie mit der Maus in die Spalte, in der ein Element gefunden werden soll. Anschließend tippen Sie einfach das erste Zeichen über die Tastatur ein - die Auswahl springt auf die Zeile mit dem ersten gefundenen Element. Tippen Sie das nächste Zeichen ein um die Suche fortzusetzen. Bei der Eingabe können die zuletzt eingegebenen Zeichen auch wieder gelöscht werden, wenn man sich vertippt hat.
 
 Tipp: mit der Tastenkombination Strg + Pfeil hinauf oder Strg+Pfeil hinunter kann man die Suche mit dem aktuellen Suchtext nach oben oder unten fortsetzen
