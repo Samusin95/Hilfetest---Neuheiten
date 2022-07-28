@@ -1,6 +1,6 @@
 # Journal Optionen
 
-**Priorität**:
+**Priorität**:<br />
 ermöglicht die Zuordnung der Priorität niedrig, normal oder hoch. Diese kann in der Journalliste dargestellt oder im erweiterten Filter verwendet werden.
 
 
