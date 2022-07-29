@@ -1,4 +1,4 @@
 ---
 isBookIndex: true
 ---
-[Test](Neuheiten.md)
+[Test2](Neuheiten.md)
