@@ -1,3 +1,6 @@
 ---
 generateHeadingToc: true
 ---
+---
+isBookIndex: true
+---
