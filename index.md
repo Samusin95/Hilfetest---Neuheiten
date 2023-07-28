@@ -7,4 +7,4 @@ Dieser Text dient als Kurzbeschreibung zum Programm
 ## Table of contents
 
 - [Neuheiten](Neuheiten.md)
-- [GlossaryofTerms](GlossaryofTerms.md)
+- [Glossary of Terms](GlossaryofTerms.md)
